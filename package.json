@@ -1,0 +1,19 @@
+{
+  "name": "minecraftwebsite",
+  "version": "1.0.0",
+  "description": "Full featured Website for Minecraft Communities",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Clarkcj12/MinecraftWebsite.git"
+  },
+  "author": "Clarkcj (Imaginears Club)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Clarkcj12/MinecraftWebsite/issues"
+  },
+  "homepage": "https://github.com/Clarkcj12/MinecraftWebsite#readme"
+}
